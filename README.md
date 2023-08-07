@@ -6,6 +6,6 @@ A To-do-list Flutter project.
 
 <div align="center" width="50">
 
-<img src="" alt="Welcome!" width="250" height= "500" />
+<img src="https://flutterawesome.com/content/images/2020/07/todoey.jpg" alt="Welcome!" width="250" height= "500" />
 
 </div>
